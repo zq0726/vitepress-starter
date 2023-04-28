@@ -1,1 +1,0 @@
-import{_ as s,o as e,c as a,O as l}from"./chunks/framework.515a6128.js";const _=JSON.parse('{"title":"Shell 命令","description":"","frontmatter":{},"headers":[],"relativePath":"vcs/shell-basics.md","lastUpdated":null}'),o={name:"vcs/shell-basics.md"},n=l("",9),t=[n];function p(c,r,i,d,u,h){return e(),a("div",null,t)}const b=s(o,[["render",p]]);export{_ as __pageData,b as default};
