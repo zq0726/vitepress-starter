@@ -74,6 +74,20 @@ export const getSidebar = (): DefaultTheme.Sidebar => ({
       ],
     },
     {
+      text: "gulp",
+      collapsed: false, // 折叠
+      items: [
+        {
+          text: "gulp 介绍",
+          link: joinPath(MENU.FRONTEND, "gulp/gulp-description"),
+        },
+        {
+          text: "gulp 基本使用",
+          link: joinPath(MENU.FRONTEND, "gulp/gulp-use"),
+        },
+      ],
+    },
+    {
       text: "webpack",
       collapsed: false, // 折叠
       items: [
